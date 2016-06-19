@@ -10,7 +10,7 @@ This project uses following technologies.
 - phantomjs [headless testing]
 - webpack [preprocesser]
 
-```
+```sh
 $ npm install
 
 # develop
